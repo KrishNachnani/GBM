@@ -9,7 +9,7 @@ This repository contains Python code for glioblastoma multiforme (GBM) survival 
 
 ## Acknowledgments
 Special thanks to:
-- **Ms. Shilpi Shaw** from AI Club Research Institute for mentorship and guidance.
+- **Ms. Shilpi Shaw** from AI Club Research Institute and **Dr. Zane Moore** from The Harker School, for mentorship and guidance.
 - **ChatGPT** for providing code suggestions and technical insights.
 
 ## License
